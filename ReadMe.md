@@ -1,3 +1,2 @@
-# Impeller
-## High performace event processor
+# Impeller - High performace event processor
 
